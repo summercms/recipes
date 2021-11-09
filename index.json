@@ -1,0 +1,23 @@
+{
+    "aliases": {
+        "twig-bundle": "symfony/twig-bundle",
+        "twigbundle": "symfony/twig-bundle"
+    },
+    "recipes": {
+        "symfony/twig-bundle": [
+            "3.3",
+            "4.4",
+            "5.0",
+            "5.3",
+            "5.4"
+        ]
+    },
+    "versions": [],
+    "branch": "master",
+    "is_contrib": false,
+    "_links": {
+        "repository": "github.com/symfony/recipes",
+        "origin_template": "{package}:{version}@github.com/symfony/recipes:master",
+        "recipe_template": "https://api.github.com/repos/symfony/recipes/contents/{package_dotted}.{version}.json?ref=flex/pull-1021"
+    }
+}
