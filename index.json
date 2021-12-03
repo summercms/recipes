@@ -1,0 +1,19 @@
+{
+    "aliases": {
+        "kaz-info-teh-notifier": "symfony/kaz-info-teh-notifier",
+        "kazinfotehnotifier": "symfony/kaz-info-teh-notifier"
+    },
+    "recipes": {
+        "symfony/kaz-info-teh-notifier": [
+            "6.1"
+        ]
+    },
+    "versions": [],
+    "branch": "master",
+    "is_contrib": false,
+    "_links": {
+        "repository": "github.com/symfony/recipes",
+        "origin_template": "{package}:{version}@github.com/symfony/recipes:master",
+        "recipe_template": "https://raw.githubusercontent.com/symfony/recipes/flex/pull-1031/{package_dotted}.{version}.json"
+    }
+}
